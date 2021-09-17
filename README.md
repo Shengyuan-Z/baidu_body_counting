@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 
 
-# 2. 获取你的百度token
+## 2. 获取你的百度token
 
 先[获取](https://console.bce.baidu.com/ai/?_=1631883840248#/ai/body/app/list)并将你的`API Key` 和`Secret Key`填入`client_keys.json`文件中，然后执行如下指令，你将获得`./token.json`文件
 
